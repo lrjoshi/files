@@ -6,10 +6,21 @@
     <description>Recent content on Lok&#39;s File Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 May 2018 21:48:51 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 30 May 2018 21:49:57 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome</title>
+      <link>/2018/05/30/welcome/</link>
+      <pubDate>Wed, 30 May 2018 21:49:57 -0700</pubDate>
+      
+      <guid>/2018/05/30/welcome/</guid>
+      <description>This site contains all the files that are linked to my personal website. Please visit my personal page by clicking here.
+If you have any problem in viewing or downloading the files you can go to my github repository that contains all these files by clicking here.
+Thanks !</description>
+    </item>
     
     <item>
       <title>About</title>
